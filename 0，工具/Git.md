@@ -6,7 +6,7 @@
 
 [Git和Github简单教程 - schaepher - 博客园 (cnblogs.com)](https://www.cnblogs.com/schaepher/p/5561193.html)
 
-
+[git 简明指南 (runoob.com)](https://www.runoob.com/manual/git-guide/)
 
 
 
